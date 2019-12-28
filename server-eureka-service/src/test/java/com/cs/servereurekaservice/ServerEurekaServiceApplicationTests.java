@@ -1,10 +1,10 @@
-package com.cs.provider;
+package com.cs.servereurekaservice;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProviderApplicationTests {
+class ServerEurekaServiceApplicationTests {
 
     @Test
     void contextLoads() {
